@@ -1,4 +1,4 @@
-# Postgress V12
+# PostgreSQL V12
 This asset will allow Blue Prism to connect directly to a PostgreSQL database via SQL. You will need a host (IP) address, a port number (usually 5432), a user id and password.
 
 # Connectivity
