@@ -6,3 +6,6 @@ Connectivity is provided by C# code using the npgsql library which can be found 
 
 # Usage
 For usage of this VBO asset, no knowledge of C# development is required, unless you intend to extend its functionality. You will however require some SQL and schema knowledge to use the asset.
+
+# More Information
+You can find more information about npgsql at http://www.npgsql.org/doc/installation.html.
